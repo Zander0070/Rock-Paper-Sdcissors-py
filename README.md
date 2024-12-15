@@ -1,1 +1,1 @@
-# Rock-Paper-Sdcissors-py
+# Rock-Paper-Scissors-py
